@@ -1,13 +1,13 @@
 # File server
 
-[Description](https://github.com/MiVeKu/FileServer#description)  |  [Install](https://github.com/MiVeKu/FileServer#install)  |  [Getting started](https://github.com/MiVeKu/FileServer#getting-started)
+[Description](https://github.com/MiVeKu/FileServer#description)  |  [Install](https://github.com/MiVeKu/FileServer#install)  |  [Overview](https://github.com/MiVeKu/FileServer#getting-started)
 
 ## Description
 
 ### File server is a basic web application for uploading files to MongoDB database for storage and listing uploaded files in the database. Currently the app can stream back image files for viewing.
 
-Fridge app is built using:
-* MonogoDB, a NoSQL database used to store all products
+File server uses:
+* MonogoDB, a NoSQL database used to store data
 * Express.js, a web application framework that runs on Node.js
 * GridFS, a specification for storing and retrieving files that exceed the BSON-document size limit. [GridFS documentation] (https://docs.mongodb.com/manual/core/gridfs/)
 * Pug,  template engine for Node.js. [Pug Github page](https://github.com/pugjs/pug)
@@ -27,12 +27,12 @@ Fridge app is built using:
 ### 5. Install dependencies
    This is done using a command **npm install**.
 ### 6. Start the server
-   This is done using a command **node app**
+   Wiht the command **node app**
    
-   Now the file server can be accessed with your internet browser on address **localhost:3000**
+   Now the file server can be accessed with a internet browser in **localhost:3000**
 
 
-## Getting started
+## Overview
 
 ### Main views
 The application has two main views, the list view:
