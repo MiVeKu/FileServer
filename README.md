@@ -43,7 +43,7 @@ and the uploading view:
 
 ![alt text](https://github.com/MiVeKu/FileServer/blob/master/images/uploadview.png "The uploading view")
 ### List view
-Here you can see a simple list of the files currently in the database. The files are ordered by adding date. For every file, file type is listed and links for viewing (if the file is an image) and deleting form the database are provided. The last item in the list is a link to the uploading view. If there are no files in the database an error message is shown.
+Here you can see a simple list of the files currently in the database. The files are ordered by adding date. For every file, file type is listed and links for viewing (if the file is an image) and deleting form the database are provided. The last item in the list is a link to the uploading view. If there are no files in the database an error message is shown. In this case you can go straight to the uploading view by typing http://localhost:3000/addImg to the address bar.
 ### Uploading files
 In the uploading view files can be uploaded with the provided file manager instance.
 
