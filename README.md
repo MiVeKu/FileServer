@@ -36,9 +36,9 @@ Fridge app is built using:
 
 ### Main views
 The application has two main views, the list view:
-![alt text]( "The list view")
+![alt text](https://github.com/MiVeKu/FileServer/blob/master/images/listview.png "The list view")
 and the uploading view:
-![alt text](https://github.com/kalleheini1994/FridgeApp/blob/master/images/productRunningOut.gif "The uploading view")
+![alt text]( "The uploading view")
 ### List view
 Here you can see a simple list of the files currently in the database. The files are order by adding date. For every file, the file type is listed and links for viewing (if the file is an image) and deleting form the database is provided. The last item in the list is a link to the uploading view. If there are no files in the database an error message is shown.
 ### Uploading view
