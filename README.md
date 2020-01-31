@@ -37,7 +37,7 @@ Fridge app is built using:
 ### Main views
 The application has two main views, the list view:
 
-![alt text](https://github.com/MiVeKu/FileServer/blob/master/images/listviewnew.png "The list view")
+![alt text](https://github.com/MiVeKu/FileServer/blob/master/images/lisviewnew.png "The list view")
 
 and the uploading view:
 
