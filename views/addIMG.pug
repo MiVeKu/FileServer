@@ -1,0 +1,14 @@
+doctype html
+head
+    link(rel='stylesheet', href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T', crossorigin='anonymous')
+body.container
+    h3='Lisää uusi kuva:'
+    form#form(action='/addImg', method='POST', enctype="multipart/form-data")
+        div.form-group
+            label='Valitse kuva selaimella:'
+            input.form-control(type='file', name='file')
+            br
+            button.btn-btn-primary(type='submit') Tallenna
+            br
+a(href='/') Kaikki kuvat
+br
