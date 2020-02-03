@@ -1,6 +1,6 @@
 # File server
 
-[Description](https://github.com/MiVeKu/FileServer#description)  |  [Install](https://github.com/MiVeKu/FileServer#install)  |  [Overview](https://github.com/MiVeKu/FileServer#getting-started)
+[Description](https://github.com/MiVeKu/FileServer#description)  |  [Install](https://github.com/MiVeKu/FileServer#install)  |  [Overview](https://github.com/MiVeKu/FileServer#Overview)
 
 ## Description
 
