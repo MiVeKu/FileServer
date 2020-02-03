@@ -4,7 +4,7 @@
 
 ## Description
 
-### File server is a basic web application for uploading files to MongoDB database for storage and listing uploaded files in the database. Currently the app can stream back image files for viewing.
+### File server is a basic web application for uploading files to MongoDB database for storage and listing uploaded files in the database. Currently the app can stream back image files for viewing. The applications interface is in Finnish.
 
 File server uses:
 * MonogoDB, a NoSQL database used to store data
@@ -17,9 +17,9 @@ File server uses:
 ## Install
 
 ### 1. Install Node.js. 
-   Node.js can be downloaded [here](https://nodejs.org/en/download/). LTS version recommended.
+   Download Node.js in [here](https://nodejs.org/en/download/). LTS version recommended.
 ### 2. Install MongoDB
-   MongoDB can be downloaded [here](https://www.mongodb.com/download-center/community). MongoDB can be installed using complete install with default settings.
+   Download MongoDB in [here](https://www.mongodb.com/download-center/community). MongoDB can be installed using complete install with default settings.
 ### 3. Clone or download this repository
    If you download this repository as a ZIP file file unzip it before continuing.
 ### 4. Move into the project folder using command line
@@ -27,7 +27,7 @@ File server uses:
 ### 5. Install dependencies
    This is done using a command **npm install**.
 ### 6. Start the server
-   Wiht the command **node app**
+   With the command **node app**
    
    Now the file server can be accessed with a internet browser in **localhost:3000**
 
@@ -49,7 +49,7 @@ In the uploading view files can be uploaded with the provided file manager insta
 
 ![alt text](https://github.com/MiVeKu/FileServer/blob/master/images/uploadfileman.png "The uploading view")
 
-the uploaded view is then shown in the list.
+the uploaded file is then added to the the list in list view.
 
 ![alt text](https://github.com/MiVeKu/FileServer/blob/master/images/listview.png "The list view")
 
